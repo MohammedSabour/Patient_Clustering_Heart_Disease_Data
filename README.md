@@ -1,20 +1,19 @@
 # 💡 Patient Clustering on Heart Disease Data
-
-
+ Mini data mining project focused on unsupervised learning, applying K-Means clustering to medical (heart disease) data in order to identify patient groups based on similar health characteristics, without using labeled outcomes.
 
 ---
 
 ## 📂 Project Overview
 
-- Load and preprocess a medical dataset (e.g., heart disease data).
+- Loaded and preprocessed a medical dataset related to heart disease.
 - Clean the data by handling missing values and converting categorical data.
-- Apply **K-Means clustering**.
+- Apply **K-Means clustering**. to group patients based on similar clinical attributes.
 - Determine the optimal number of clusters using the **Elbow Method**.
 - Visualize clusters and interpret the results.
 
 ---
 
-## 📊 Dataset
+## 
 
 The dataset used is based on health/heart-related patient information. It contains features such as:
 
